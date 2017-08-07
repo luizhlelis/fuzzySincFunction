@@ -1,0 +1,9 @@
+1) O exercicio tem como objetivo aproximar a função sinc(x) no intervalo [0,2*pi] utilizando o modelo nebuloso (FUZZY).
+
+2) O relatório descreve o algoritmo. Ele contém:
+
+- A descrição do modelo, isto é, número de regras, funções de pertinência, funções dos consequentes;
+
+- Um gráfico contendo a saída desejada (sinc(x)) e a saída do modelo;
+
+- O desempenho do modelo medido através do erro quadrático médio
